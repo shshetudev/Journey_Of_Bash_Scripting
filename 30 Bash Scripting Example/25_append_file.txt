@@ -1,0 +1,9 @@
+Before appending the file:
+---------------------------
+1. Pro Java
+2. Intermediate Angular
+3. Learning Bash Scripting
+
+After appending the file:
+-------------------------
+Learning Bash Scripting

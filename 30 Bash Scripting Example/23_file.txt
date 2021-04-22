@@ -1,0 +1,4 @@
+1. Pro Java
+2. Intermediate Angular
+3. Learning Python
+4. Learning GCP
