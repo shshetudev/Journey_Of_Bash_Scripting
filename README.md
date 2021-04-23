@@ -3,7 +3,7 @@
 <h1>How to run a bash script file?</h1>
 <ul>
   <li>
-    <b> One time process only:</b> If you are a linux user, first check where you bash exists. Open the terminal (press CRTL+T) and execute the command: <i>which bash</i>. It will show you the dirctroy where you bash exists. In my case it gives the output: <i>/usr/bin/bash</i>.
+    <b> One time process only:</b> If you are a linux user, first check where you bash exists. Open the terminal (press CRTL+T) and execute the command: <i>which bash</i>. It will show you the dirctroy where bash exists. In my case it gives the output: <i>/usr/bin/bash</i>.
   </li>
   <li> <b>Cloning the project: </b> In the terminal, execute the command: <i>git clone https://github.com/shshetudev/Journey_Of_Bash_Scripting.git</i></li>
   <li> <b>Forking the project: </b> You can also Fork the project if you want. Just click the fork button on the upper right hand side.</li>
